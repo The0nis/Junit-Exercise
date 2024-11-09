@@ -1,0 +1,8 @@
+pt\up\fe\util\EmailValidator.class
+pt\up\fe\model\Race.class
+pt\up\fe\model\TolkienCharacter.class
+pt\up\fe\model\Movie.class
+pt\up\fe\service\DataService.class
+pt\up\fe\util\ConverterUtil.class
+pt\up\fe\model\Ring.class
+pt\up\fe\model\Alignment.class

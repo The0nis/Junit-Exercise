@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: pt.up.fe.service.DataServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1011, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.686 s <<< FAILURE! -- in pt.up.fe.service.DataServiceTest
+pt.up.fe.service.DataServiceTest.ensureServiceDoesNotRunToLong -- Time elapsed: 0.013 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: not yet implemented
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:38)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:138)
+	at pt.up.fe.service.DataServiceTest.ensureServiceDoesNotRunToLong(DataServiceTest.java:140)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

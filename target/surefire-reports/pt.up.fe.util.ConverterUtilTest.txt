@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pt.up.fe.util.ConverterUtilTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.280 s -- in pt.up.fe.util.ConverterUtilTest
